@@ -1,0 +1,11 @@
+title: rpi-install-recommended-software
+hero_image: images/banner.png
+description: rpi-install-recommended-software description
+version: 4
+listed: false
+copyedit: false
+last_tested: "2018-06-14"
+steps:
+  - title: Introduction
+  - title: What you will need
+  - title: Step title
