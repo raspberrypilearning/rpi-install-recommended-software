@@ -1,25 +1,17 @@
-## Introduction
+**Note:** your Pi has to be [connected to the internet](https://projects.raspberrypi.org/en/projects/raspberry-pi-using/4) before you can install software.
 
-Add project description here. What will learners be making?
++ Click **Preferences** and then **Recommended Software**.
 
-### What you will make
+![recommended software menu](images/pi-rec-software.png)
 
-Add something here to showcase here, for example:
+You can browse all the recommended software or filter by category.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![recommended software](images/pi-rec-software-start.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
++ Select an application to install by selecting the check box.
 
-### What you will learn
+![select software to install](images/pi-rec-software-select-annotated.png)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
++ Click **OK** to install your selected application.
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+![install software](images/pi-rec-software-install.png)
